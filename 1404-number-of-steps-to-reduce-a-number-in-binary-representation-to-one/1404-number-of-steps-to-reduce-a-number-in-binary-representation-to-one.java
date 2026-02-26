@@ -7,29 +7,25 @@
 // @lc code=start
 class Solution {
     public int numSteps(String s) {
-        //paso de string binario a entero
-        int numero=0;
-       for (int i = 0; i < s.length(); i++) {
-    // 1. Desplazamos el valor actual a la izquierda (multiplicar por 2)
-    numero = numero * 2; 
-    
-    // 2. Sumamos el valor del caracter actual ('0' o '1')
-    // Restamos '0' para convertir el char en su valor numérico real
-    if (s.charAt(i) == '1') {
-        numero = numero + 1;
-    }
-}
-        int pasos=0;
-        while (numero>1){
-            if ((numero % 2) ==0){
-                numero= numero/2;
-            }else{
-                numero++;
+        int pasos = 0;
+        int carry = 0;
+
+        // Recorremos de derecha a izquierda hasta el bit más significativo.
+        for (int i = s.length() - 1; i > 0; i--) {
+            int bit = s.charAt(i) - '0';
+
+            if (bit + carry == 1) {
+                // Impar: +1 y luego /2 => 2 pasos
+                pasos += 2;
+                carry = 1;
+            } else {
+                // Par: solo /2 => 1 paso
+                pasos += 1;
             }
-            pasos++;
         }
-        
-        return pasos;
+
+        // Si quedó carry al final, suma un paso extra.
+        return pasos + carry;
     }
 }
 // @lc code=end

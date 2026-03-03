@@ -17,3 +17,19 @@ Repositorio con soluciones a problemas de **LeetCode** resueltos personalmente. 
 ## Aviso
 
 Este repositorio es **personal y educativo**, orientado al aprendizaje y practica de programación. No está destinado a copiar directamente para fines externos.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+<!---LeetCode Topics End-->

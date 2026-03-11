@@ -59,4 +59,8 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/XxReyRataxX/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/XxReyRataxX/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/XxReyRataxX/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/XxReyRataxX/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
@@ -46,6 +47,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/XxReyRataxX/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -63,4 +65,8 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/XxReyRataxX/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/XxReyRataxX/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->

@@ -41,6 +41,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/XxReyRataxX/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/XxReyRataxX/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/XxReyRataxX/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XxReyRataxX/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/XxReyRataxX/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -67,6 +68,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/XxReyRataxX/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/XxReyRataxX/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |

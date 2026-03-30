@@ -24,6 +24,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/XxReyRataxX/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/XxReyRataxX/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/XxReyRataxX/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -107,4 +108,8 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/XxReyRataxX/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/XxReyRataxX/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->

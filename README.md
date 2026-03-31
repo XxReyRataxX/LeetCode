@@ -42,6 +42,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | ------- | ------- |
 | [0015-3sum](https://github.com/XxReyRataxX/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/XxReyRataxX/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/XxReyRataxX/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/XxReyRataxX/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/XxReyRataxX/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/XxReyRataxX/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -68,6 +69,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/XxReyRataxX/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/XxReyRataxX/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |

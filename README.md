@@ -23,6 +23,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/XxReyRataxX/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/XxReyRataxX/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/XxReyRataxX/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/XxReyRataxX/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -56,6 +57,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/XxReyRataxX/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/XxReyRataxX/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/XxReyRataxX/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/XxReyRataxX/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -117,4 +119,8 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | ------- | ------- |
 | [0015-3sum](https://github.com/XxReyRataxX/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/XxReyRataxX/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/XxReyRataxX/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->

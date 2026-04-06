@@ -47,6 +47,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | [0049-group-anagrams](https://github.com/XxReyRataxX/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/XxReyRataxX/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/XxReyRataxX/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/XxReyRataxX/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/XxReyRataxX/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/XxReyRataxX/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XxReyRataxX/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -131,4 +132,8 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/XxReyRataxX/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/XxReyRataxX/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->

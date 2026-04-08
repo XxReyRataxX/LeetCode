@@ -36,6 +36,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/XxReyRataxX/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/XxReyRataxX/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/XxReyRataxX/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -128,6 +129,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | [0015-3sum](https://github.com/XxReyRataxX/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/XxReyRataxX/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/XxReyRataxX/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/XxReyRataxX/LeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/XxReyRataxX/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/XxReyRataxX/LeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,5 +150,6 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/XxReyRataxX/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/XxReyRataxX/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/XxReyRataxX/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/XxReyRataxX/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

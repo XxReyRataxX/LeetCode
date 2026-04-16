@@ -154,4 +154,20 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | [0141-linked-list-cycle](https://github.com/XxReyRataxX/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/XxReyRataxX/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/XxReyRataxX/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/XxReyRataxX/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/XxReyRataxX/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/XxReyRataxX/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/XxReyRataxX/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->

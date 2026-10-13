@@ -57,6 +57,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | [0347-top-k-frequent-elements](https://github.com/XxReyRataxX/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/XxReyRataxX/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/XxReyRataxX/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/XxReyRataxX/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | [0217-contains-duplicate](https://github.com/XxReyRataxX/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/XxReyRataxX/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/XxReyRataxX/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/XxReyRataxX/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +191,8 @@ Este repositorio es **personal y educativo**, orientado al aprendizaje y practic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/XxReyRataxX/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/XxReyRataxX/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 <!---LeetCode Topics End-->
